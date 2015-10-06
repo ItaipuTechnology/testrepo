@@ -4,7 +4,8 @@ public class HelloWorld {   /**
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("Hello World,! Are you Alive? I mean seriously now folks!");
+        System.out.println("Hello World,! Are you Alive? I mean seriously now folks!"
+        		+ "go for it duuude");
     }
  
 }
